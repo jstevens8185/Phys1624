@@ -7,6 +7,7 @@ This program simulates a ball bouncing and prints the velocity,
 height, and time taken for each bounce.
 
 ### Files
+|---|------|-------------|
 | # | Name | Description |
 | 0 | [Bounce.cpp](/Bounce.cpp) | Driver code that runs the program. |
 | 1 | [results.txt](/results.txt) | Results of the program |

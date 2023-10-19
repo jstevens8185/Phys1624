@@ -1,5 +1,5 @@
 # Phys1624
-Jered Stevens
+### Jered Stevens
 
 jstevens@altruiststudios.com
 

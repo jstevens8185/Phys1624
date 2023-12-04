@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main(){
+void bounce(){
     ofstream output;
     output.open("results.txt");
     int initialHeight = 1000;
